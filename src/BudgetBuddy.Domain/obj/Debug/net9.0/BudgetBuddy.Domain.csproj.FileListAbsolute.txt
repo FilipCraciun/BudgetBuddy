@@ -1,0 +1,11 @@
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\bin\Debug\net9.0\BudgetBuddy.Domain.deps.json
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\bin\Debug\net9.0\BudgetBuddy.Domain.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\bin\Debug\net9.0\BudgetBuddy.Domain.pdb
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.AssemblyInfo.cs
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\refint\BudgetBuddy.Domain.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.pdb
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\ref\BudgetBuddy.Domain.dll

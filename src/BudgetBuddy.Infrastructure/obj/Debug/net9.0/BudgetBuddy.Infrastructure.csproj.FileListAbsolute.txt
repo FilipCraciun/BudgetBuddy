@@ -1,0 +1,15 @@
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\bin\Debug\net9.0\BudgetBuddy.Infrastructure.deps.json
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\bin\Debug\net9.0\BudgetBuddy.Infrastructure.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\bin\Debug\net9.0\BudgetBuddy.Infrastructure.pdb
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\bin\Debug\net9.0\BudgetBuddy.Domain.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\bin\Debug\net9.0\BudgetBuddy.Domain.pdb
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.csproj.AssemblyReference.cache
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.AssemblyInfo.cs
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBu.CAFF12CE.Up2Date
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\refint\BudgetBuddy.Infrastructure.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.pdb
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\ref\BudgetBuddy.Infrastructure.dll
