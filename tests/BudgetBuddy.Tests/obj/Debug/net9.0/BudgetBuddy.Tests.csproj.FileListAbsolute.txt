@@ -107,3 +107,4 @@ C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\tests\BudgetBuddy.Tests\obj
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\tests\BudgetBuddy.Tests\obj\Debug\net9.0\BudgetBuddy.Tests.pdb
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\tests\BudgetBuddy.Tests\obj\Debug\net9.0\BudgetBuddy.Tests.genruntimeconfig.cache
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\tests\BudgetBuddy.Tests\obj\Debug\net9.0\ref\BudgetBuddy.Tests.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\tests\BudgetBuddy.Tests\obj\Debug\net9.0\BudgetBuddy.Tests.sourcelink.json

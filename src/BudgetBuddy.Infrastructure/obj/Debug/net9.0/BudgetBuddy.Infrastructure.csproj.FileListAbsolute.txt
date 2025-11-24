@@ -13,3 +13,4 @@ C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastruct
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\refint\BudgetBuddy.Infrastructure.dll
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.pdb
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\ref\BudgetBuddy.Infrastructure.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Infrastructure\obj\Debug\net9.0\BudgetBuddy.Infrastructure.sourcelink.json

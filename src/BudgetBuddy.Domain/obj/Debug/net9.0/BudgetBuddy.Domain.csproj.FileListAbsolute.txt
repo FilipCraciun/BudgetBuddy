@@ -9,3 +9,4 @@ C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\refint\BudgetBuddy.Domain.dll
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.pdb
 C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\ref\BudgetBuddy.Domain.dll
+C:\Endava\EndevLocal\PracticalExercises2\BudgetBuddy\src\BudgetBuddy.Domain\obj\Debug\net9.0\BudgetBuddy.Domain.sourcelink.json
