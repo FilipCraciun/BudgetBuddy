@@ -11,7 +11,7 @@ public static class DomainExtensions
 
     // Format: 2024-06
     public static string MonthKey(this DateTime dt)
-        => dt.ToString("yyy-MM", CultureInfo.InvariantCulture);
+        => dt.ToString("yyyy-MM", CultureInfo.InvariantCulture);
     
     //Decimal parsing with invariant culture
     public static Result<decimal> TryDec(this string? s)
@@ -33,12 +33,12 @@ public static class DomainExtensions
         if (string.IsNullOrWhiteSpace(s))
             return Result<DateTime>.Fail("Empty date.");
 
-        if (DateTime.TryParseExact(s.Trim(), "yyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal | DateTimeStyles.AdjustToUniversal, out var dt))
+        if (DateTime.TryParseExact(s.Trim(), "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal | DateTimeStyles.AdjustToUniversal, out var dt))
         {
             return Result<DateTime>.Ok(dt.Date);
         }
 
-        return Result<DateTime>.Fail($"Invalid date: '{s}'. Expected yyy-MM-dd.");
+        return Result<DateTime>.Fail($"Invalid date: '{s}'. Expected yyyy-MM-dd.");
     }
 
     public static decimal SumAbs(this IEnumerable<decimal> source)
