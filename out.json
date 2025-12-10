@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Timestamp": "2025-01-03T00:00:00Z",
+    "Payee": "Salary",
+    "Amount": 3500,
+    "Currency": "USD",
+    "Category": "Income",
+    "IsIncome": true,
+    "IsExpense": false
+  },
+  {
+    "Id": 2,
+    "Timestamp": "2025-01-05T00:00:00Z",
+    "Payee": "Groceries",
+    "Amount": -120.45,
+    "Currency": "USD",
+    "Category": "Food",
+    "IsIncome": false,
+    "IsExpense": true
+  },
+  {
+    "Id": 3,
+    "Timestamp": "2025-01-08T00:00:00Z",
+    "Payee": "Electricity",
+    "Amount": -60.00,
+    "Currency": "USD",
+    "Category": "Utilities",
+    "IsIncome": false,
+    "IsExpense": true
+  },
+  {
+    "Id": 4,
+    "Timestamp": "2025-02-01T00:00:00Z",
+    "Payee": "Salary",
+    "Amount": 3500,
+    "Currency": "USD",
+    "Category": "Income",
+    "IsIncome": true,
+    "IsExpense": false
+  },
+  {
+    "Id": 5,
+    "Timestamp": "2025-02-07T00:00:00Z",
+    "Payee": "Cafe",
+    "Amount": -7.75,
+    "Currency": "USD",
+    "Category": "Food",
+    "IsIncome": false,
+    "IsExpense": true
+  }
+]

@@ -1,0 +1,6 @@
+Id,Timestamp,Payee,Amount,Currency,Category
+1,2025-01-03,Salary,3500,USD,Income
+2,2025-01-05,Groceries,-120.45,USD,Food
+3,2025-01-08,Electricity,-60.00,USD,Utilities
+4,2025-02-01,Salary,3500,USD,Income
+5,2025-02-07,Cafe,-7.75,USD,Food
